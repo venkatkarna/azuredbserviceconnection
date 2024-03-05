@@ -1,0 +1,10 @@
+3/5/2024 12:57:13 PM	This log contains information about the import schema operation into project 'Adventuredb' on computer 'VM001' by user 'venkatesh b'.
+3/5/2024 12:57:14 PM	Deserializing model
+3/5/2024 12:57:17 PM	Resolving model
+3/5/2024 12:57:18 PM	Visiting imported model for types
+3/5/2024 12:57:22 PM	Scanning project for duplicate elements
+3/5/2024 12:57:22 PM	Finished duplicate element processing
+3/5/2024 12:57:36 PM	Processing extra files
+3/5/2024 12:57:36 PM	Finished importing Data-tier Application file.
+3/5/2024 12:57:36 PM	A summary of the import was saved to the following location: C:\Users\venkatesh b\Source\Repos\Adventuredb\Import Schema Logs\Adventuredb_20240305125713.log
+3/5/2024 12:57:36 PM	Click Finish to continue...
